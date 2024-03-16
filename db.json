@@ -1,11 +1,7 @@
 {
   "books": [
     {
-      "title": "Dune part 2",
-      "id": 1
-    },
-    {
-      "title": "Watchmen",
+      "title": "Watchmen 2",
       "id": 4
     },
     {
@@ -21,8 +17,12 @@
       "id": 7
     },
     {
-      "title": "Tech Noir",
-      "id": 8
+      "title": "Mass Effect 3",
+      "id": 9
+    },
+    {
+      "title": "Terminator",
+      "id": 10
     }
   ]
 }
