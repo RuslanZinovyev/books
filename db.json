@@ -7,6 +7,22 @@
     {
       "title": "Watchmen",
       "id": 4
+    },
+    {
+      "title": "Linux Command Line",
+      "id": 5
+    },
+    {
+      "title": "OCP Java Professional",
+      "id": 6
+    },
+    {
+      "title": "OCP Practice Tests",
+      "id": 7
+    },
+    {
+      "title": "Tech Noir",
+      "id": 8
     }
   ]
 }
