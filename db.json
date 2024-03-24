@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "title": "Watchmen 2",
+      "title": "Watchmen",
       "id": 4
     },
     {
@@ -11,18 +11,6 @@
     {
       "title": "OCP Java Professional",
       "id": 6
-    },
-    {
-      "title": "OCP Practice Tests",
-      "id": 7
-    },
-    {
-      "title": "Mass Effect 3",
-      "id": 9
-    },
-    {
-      "title": "Terminator",
-      "id": 10
     }
   ]
 }
